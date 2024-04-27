@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'resquirrel'
+gem 'resquirrel', '0.1.1'
